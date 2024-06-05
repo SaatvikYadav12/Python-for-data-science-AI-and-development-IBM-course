@@ -1,2 +1,2 @@
-# Python-for-data-science-AI-and-development-IBM-course
-Python jupiter notebook files for the course - Python for data science, AI and development offered by IBM on Coursera
+# Python-for-Data-Science-AI-and-development-course-JN-files
+ The jupiter nootbook files for the practice course on Python for DS and DA 
